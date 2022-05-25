@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SavageRPG">
+    <output-path>$USER_HOME$/Desktop/savageMMO/plugins</output-path>
+    <root id="archive" name="SavageRPG.jar">
+      <element id="module-output" name="SavageRPG" />
+    </root>
+  </artifact>
+</component>

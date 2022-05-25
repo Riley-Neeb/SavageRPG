@@ -1,0 +1,9 @@
+name: SavageRPG
+version: '${project.version}'
+main: me.silathar.Main
+api-version: 1.18
+authors: [ Silathar ]
+commands:
+  reloadmmo:
+    description: Reload the MMO plugin
+    usage: /reloadmmo
